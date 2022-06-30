@@ -1,0 +1,13 @@
+.butt{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.butt.v1{
+    background-color: black;
+    color: white; 
+}
+
+.butt.v2{
+    background-color: yellow;
+}
